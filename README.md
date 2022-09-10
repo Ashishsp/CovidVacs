@@ -55,7 +55,6 @@ If `Anaconda` doesn't appear on the first line, you are using a different versio
 Local URL: http://localhost:8501
 Network URL: http://192.168.1.7:8501
 
-# Demo
 
 # Articles
 
